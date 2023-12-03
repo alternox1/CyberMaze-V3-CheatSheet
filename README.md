@@ -2,8 +2,7 @@
 This is a magic wand with all the spells you'll ever need to the CyberMaze V3
 
 # Tools
-
-
+[pwntools](https://pypi.org/project/pwntools)
 
 
 
