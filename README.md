@@ -22,4 +22,8 @@ This is a magic sheet with all the spells you'll ever need to the CyberMaze V3
 
 [Volatility](https://www.volatilityfoundation.org/releases)
 
+[jwt_tool](https://github.com/ticarpi/jwt_tool)
+
+[BurpSuite](https://portswigger.net/burp/communitydownload)
+
 `CyberMaze{c0b137fe2d792459f26ff763cce44574a5b5ab03}`
