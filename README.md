@@ -1,5 +1,5 @@
 # CyberMaze-V3-CheatSheet
-This is a magic sheet with all the spells you'll ever need to the CyberMaze V3
+This is a magic sheet with all the spells you'll ever need for the CyberMaze V3
 
 # Tools
 [pwntools](https://pypi.org/project/pwntools)
